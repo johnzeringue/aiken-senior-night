@@ -4,3 +4,4 @@
 - $35 million in NSF funding
 
 ![](resources/earthcube.png)
+<!-- .element: style="max-height: 80%" -->
